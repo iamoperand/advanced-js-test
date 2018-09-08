@@ -10,3 +10,6 @@
 2. **ESLint** - For making the code more readable
 3. **Lint Staged** - For running linter on git-staged files
 4. **Husky** - To make it easier to work with git-hooks
+
+### Time Taken
+Here is the [timer](https://github.com/iamoperand/advanced-js-test/blob/master/timer.png) (~ 6 hours 30 minutes)
