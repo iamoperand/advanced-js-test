@@ -3,10 +3,6 @@ class PseudoGenerator {
     this.sequencer = sequencer;
   }
 
-  [Symbol.iterator]() {
-    return this;
-  }
-
   next() {
     return this.sequencer();
   }

@@ -1,7 +1,7 @@
-const isEven = () => value => ({
+const isEvenPipe = () => value => ({
   status: (value % 2 === 0),
   number: value,
 });
 
 
-module.exports = isEven;
+module.exports = isEvenPipe;
